@@ -1,0 +1,5 @@
+a=int(2)
+print(a)
+b=float(2)
+c=str(2)
+print(c)
