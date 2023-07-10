@@ -1,0 +1,5 @@
+c=CurrencyRates()
+Currency=c.get_rate("USD","INR")
+#convert USD to INR
+print(Currency)
+print(round(Converter,3))
